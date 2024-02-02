@@ -1,0 +1,8 @@
+რა არის ფუნქცია
+Arrow Function
+Function Declaration vs Expression
+Hoisting
+დაბრუნებული მნიშვნელობა
+ფუნქციის არგუმენტები
+Switch case
+Ternary operator
