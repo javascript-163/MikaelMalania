@@ -1,0 +1,4 @@
+·ასინქრონული ფუნქციები, Async/await
+·Try Catch
+·Local Storage
+·Session Storage
